@@ -9,10 +9,6 @@ Step 2 involves cleaning the database. Then Creating train,val and test sets.
 
 # Imports
 import pandas as pd
-import nltk
-nltk.download('punkt')
-from nltk.tokenize import word_tokenize
-from gensim.models import Word2Vec
 
 
 # Read in database
