@@ -50,7 +50,7 @@ The results of the back and forth battle between bacteria and the antibiotic dru
 
 
 # Project Goal:
-This paper will discuss the implementation of artificial intelligence in the creation of novel tail fibers of bacteriophages. Tail fibers were the chosen structure of interest to study because they are responsible for the recognition of the bacteria target. A future problem in phage therapy could be that there are no known phages that will attack a specific bacteria that has infected a patient. I propose the use of a sequential language model to generate the protein structure of the tail fibers needed in hopes of genetically editing a captured phage to specifically target such bacteria. 
+This project will discuss the implementation of artificial intelligence in the creation of novel tail fibers of bacteriophages. Tail fibers were the chosen structure of interest to study because they are responsible for the recognition of the bacteria target. A future problem in phage therapy could be that there are no known phages that will attack a specific bacteria that has infected a patient. I propose the use of a sequential language model to generate the protein structure of the tail fibers needed in hopes of genetically editing a captured phage to specifically target such bacteria. 
 
 
 
