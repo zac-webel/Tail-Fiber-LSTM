@@ -31,8 +31,8 @@ Using the Generation Script, I input the seed sequence and the desired molecular
 <img width="937" alt="Screen Shot 2023-06-04 at 11 53 21 AM" src="https://github.com/zac-webel/Tail-Fiber-LSTM-/assets/118777665/20e63718-7551-486d-aacf-fa1b0f8362b0">
 
  We can then use AlphaFold to predict the structure
-https://github.com/zac-webel/Tail-Fiber-LSTM-/assets/118777665/5fe0a843-bb81-4ac6-9d66-cec88e5b9986
 
+<img width="348" alt="Screen Shot 2023-06-04 at 12 01 51 PM" src="https://github.com/zac-webel/Tail-Fiber-LSTM-/assets/118777665/7d8ed970-a29f-49c4-a67d-ad6ee356bf65">
 
 
 <img width="418" alt="Picture1 0png" src="https://github.com/zac-webel/Tail-Fiber-LSTM-/assets/118777665/5b49c0c2-d0c9-43bb-9ca2-4575494517c6">
