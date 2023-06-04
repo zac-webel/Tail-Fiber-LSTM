@@ -1,3 +1,4 @@
+# Zachary Webel - zow2@georgetown.edu
 # Tail-Fiber-Sequential Language Model
 This Project is an improved design from my HIDS-506 Artificial Intelligence final project submission. Every step in the project is posted.
 
